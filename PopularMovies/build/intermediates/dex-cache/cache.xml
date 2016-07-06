@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_fee9ef2e1751aa7c3480fd03ed49fdae5cf70429\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f054f8fc56853b0bca47e6eb6787b0a960ff9c67">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a5cb2a7240fb2703f2884a513c6cc0520bccd09b\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_0d2e65c7971e5574ac89ff284760a8bb8af7620f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vb\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_3682c23a1f929e3f8145e807aa914a530b142c0d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_b118c4e17b52330ecc63d01eca6aa394425ce696\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_689e012bfa3d931aefe83de463f84ce6251101e8\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="51e5c7123bfba170eb05f266d9db9ebb369cdb39">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_77a7292e0d51d7a71c0e92900a99d061b446ca8e\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.1_14d2212120789a3e1c86a98d0d0757f05d2a4707\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_6f340d5d0c5d381d27979be53acab3d4807cdc95\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_49d4433aa3073fc680cd0b2801d53868c7517c2f\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_34fae24c821cba147a5cdecf0fb80a63666089ee\classes.dex" />
+    </item>
+    <item
+        jar="F:\androidprojects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="F:\androidprojects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_c819e1514e0337a7bfedea3daa3bae50379a6de9\classes.dex" />
+    </item>
+
+</items>
